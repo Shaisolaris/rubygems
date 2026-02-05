@@ -14,3 +14,5 @@
 tmp
 /coverage
 /.venv
+config.bat
+node_modules
