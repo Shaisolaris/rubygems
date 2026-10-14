@@ -16,3 +16,5 @@ tmp
 .rspec_status
 /spec/support/artifice/used_cassettes.txt
 /.venv
+config.bat
+node_modules
