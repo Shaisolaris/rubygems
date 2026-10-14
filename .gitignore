@@ -15,3 +15,5 @@ tmp
 /coverage
 .rspec_status
 /.venv
+config.bat
+node_modules
